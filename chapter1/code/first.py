@@ -1,5 +1,4 @@
 import survey
-import numpy as np
 
 table = survey.Pregnancies()
 table.ReadRecords()

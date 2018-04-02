@@ -9,6 +9,7 @@ import survey
 # copying Mean from thinkstats.py so we don't have to deal with
 # importing anything in Chapter 1
 
+
 def Mean(t):
     """Computes the mean of a sequence of numbers.
     Args:
